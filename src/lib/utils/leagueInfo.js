@@ -93,10 +93,10 @@ export const managers = [
    },
   {
     "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-    "name": "Joey",
+    "name": "Camron",
   // "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-    "location": "Lowes", // (optional)
-    "bio": "",
+    "location": "WFPD", // (optional)
+    "bio": "Toilet-Bowl Champion",
     // "photo": "/managers/trey.jpg", // square ratio recommended (no larger than 500x500)
     "fantasyStart": 2022, // (optional) when did the manager start playing fantasy football
     "favoriteTeam": "dal", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -159,10 +159,10 @@ export const managers = [
    },
   {
     "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-    "name": "Camron",
+    "name": "Joey",
     // "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-    "location": "WFPD", // (optional)
-    "bio": "Toilet-Bowl Champion",
+    "location": "Lowes", // (optional)
+    "bio": "",
     // "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
     "fantasyStart": 2022, // (optional) when did the manager start playing fantasy football
     "favoriteTeam": "dal", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
