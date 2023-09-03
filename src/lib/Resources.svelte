@@ -5,8 +5,8 @@ import { dynasty } from './utils/helper';
     const today = new Date();
     const resources = [
         {
-            name: "FTN Fantasy",
-            url: "https://www.ftnfantasy.com/nfl",
+            name: "MFGA Sleeper",
+            url: "https://sleeper.com/leagues/906410354970722304/",
             icon: "insights",
             premium: true,
             separator: true,
