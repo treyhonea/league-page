@@ -26,7 +26,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
   {
-    // "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "managerID" : "906397178640220160",
     "name": "Trey",
     // "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
@@ -46,7 +46,7 @@ export const managers = [
     "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
     "philosophy": "Win",
     "tradingScale": 7, // 1 - 10
-    // "preferredContact": "", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
+    "preferredContact": "Carrier Pigeon", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
     // "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
