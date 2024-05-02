@@ -47,9 +47,9 @@ export const managers = [
     "philosophy": "Win",
     "tradingScale": 7, // 1 - 10
     "preferredContact": "Carrier Pigeon", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-    },
-    {
-    // "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+  },
+  {
+    "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "managerID" : "1001638902475608064",
     "name": "Ross",
     // "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
@@ -69,8 +69,8 @@ export const managers = [
     "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
     "philosophy": "Don't suck.",
     "tradingScale": 6.5, // 1 - 10
-    // "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-    },
+    "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
+  },
   {
     "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "managerID" : "1001649557681373184",
@@ -92,10 +92,10 @@ export const managers = [
     "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
     "philosophy": "If you ain't first, your last",
     "tradingScale": 69, // 1 - 10
-    // "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-   },
+    "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
+  },
   {
-    // "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "managerID" : "1001642668151201792",
     "name": "Camron",
     // "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
@@ -115,10 +115,10 @@ export const managers = [
     "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
     "philosophy": "Fuck Bitches Get Money",
     "tradingScale": 5, // 1 - 10
-    // "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-    },
-    {
-    // "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
+  },
+  {
+    "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "managerID" : "1002645310042120192",
     "name": "Jake",
     // "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
@@ -138,10 +138,10 @@ export const managers = [
     "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
     "philosophy": "Win & Make Money",
     "tradingScale": 7, // 1 - 10
-    // "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-    },
+    "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
+  },
   {
-    // "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "managerID" : "1002655237712338944",
     "name": "Owen",
     // "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
@@ -161,8 +161,8 @@ export const managers = [
     "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
     "philosophy": "Bukakki",
     "tradingScale": 10, // 1 - 10
-    // "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-   },
+    "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
+  },
   {
     // "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "managerID" : "1003782007534518272",
@@ -184,8 +184,8 @@ export const managers = [
     "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
     "philosophy": "Nothing but W's.",
     "tradingScale": 4, // 1 - 10
-    // "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-    },
+    "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
+  },
   {
     // "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "managerID" : "1004132380627574784",
@@ -207,8 +207,8 @@ export const managers = [
     "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
     "philosophy": "Run through a mf face",
     "tradingScale": 5, // 1 - 10
-    // "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-   },
+    "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
+  },
   ]
   
   
