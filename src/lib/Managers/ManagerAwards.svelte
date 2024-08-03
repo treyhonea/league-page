@@ -33,7 +33,7 @@
         return false;
     }
 
-    const computePodiums = (cRosterID) => {
+   // const computePodiums = (cRosterID) => {
         formerGlobal = false;
         displayAwards = [];
 
